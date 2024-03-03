@@ -1,0 +1,8 @@
+.mainPanel {
+    -fx-background-color: "whitesmoke";
+}
+
+.rightPanel {
+    -fx-background-color: radial-gradient(center 10% 80%, radius 100%, #000000, #1d2e23);
+}
+
